@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/coc-ranking-front/static/css/main.5f361e03.chunk.css",
-    "main.js": "/coc-ranking-front/static/js/main.0831ca3e.chunk.js",
-    "main.js.map": "/coc-ranking-front/static/js/main.0831ca3e.chunk.js.map",
+    "main.js": "/coc-ranking-front/static/js/main.7c44d49f.chunk.js",
+    "main.js.map": "/coc-ranking-front/static/js/main.7c44d49f.chunk.js.map",
     "runtime-main.js": "/coc-ranking-front/static/js/runtime-main.0e7f0002.js",
     "runtime-main.js.map": "/coc-ranking-front/static/js/runtime-main.0e7f0002.js.map",
     "static/js/2.f29cec81.chunk.js": "/coc-ranking-front/static/js/2.f29cec81.chunk.js",
     "static/js/2.f29cec81.chunk.js.map": "/coc-ranking-front/static/js/2.f29cec81.chunk.js.map",
     "index.html": "/coc-ranking-front/index.html",
-    "precache-manifest.29d2378edf9c12c68207777cdcd7ffb9.js": "/coc-ranking-front/precache-manifest.29d2378edf9c12c68207777cdcd7ffb9.js",
+    "precache-manifest.d2a55f094024f2247e5123b2df80b73d.js": "/coc-ranking-front/precache-manifest.d2a55f094024f2247e5123b2df80b73d.js",
     "service-worker.js": "/coc-ranking-front/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/coc-ranking-front/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.f29cec81.chunk.js.LICENSE.txt": "/coc-ranking-front/static/js/2.f29cec81.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0e7f0002.js",
     "static/js/2.f29cec81.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.0831ca3e.chunk.js"
+    "static/js/main.7c44d49f.chunk.js"
   ]
 }
