@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3843d7ffb7295bd107e1d286ad185454",
+    "revision": "6103d58292bad88cf86d2204a518f6bc",
     "url": "/coc-ranking-front/index.html"
   },
   {
-    "revision": "158ae17d29a8551a8e15",
-    "url": "/coc-ranking-front/static/css/main.5f361e03.chunk.css"
+    "revision": "ad752a5c0c4a3c222b1b",
+    "url": "/coc-ranking-front/static/css/main.69195fbd.chunk.css"
   },
   {
     "revision": "880288e1f99535031481",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coc-ranking-front/static/js/2.f29cec81.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "158ae17d29a8551a8e15",
-    "url": "/coc-ranking-front/static/js/main.7c44d49f.chunk.js"
+    "revision": "ad752a5c0c4a3c222b1b",
+    "url": "/coc-ranking-front/static/js/main.14e0635f.chunk.js"
   },
   {
     "revision": "76d6d8626a5a78c60743",
